@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
+#include <netinet/in.h>
+
 int main(int argc, char* argv[]) {
 
     if (argc != 3) {
